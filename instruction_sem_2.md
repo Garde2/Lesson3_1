@@ -45,6 +45,11 @@
 
 *git branch -d name* - **удаляем папку с определенным именем**
 ```
+## Полезные ссылки по GIT.
+
+git-scm.com - GIT для всех платформ
+
+https://learngitbranching.js.org/ - бесплатный тренажер по GIT
 
 ## Рисуем таблицу на Markdown
 
