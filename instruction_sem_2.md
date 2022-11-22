@@ -7,7 +7,8 @@
 [Markdown](https://ru.wikipedia.org/wiki/Markdown).
 
 > GitHub предоставляет оконное приложение с графическим интерфейсом для выполнения основных операций с репозиторием, и консольную версию Git с автоматическими обновлениями для расширенных сценариев работы.
-desktop.github.com
+
+[GitHub Desktop](desktop.github.com)
 
 Дистрибутивы Git для систем Linux и POSIX доступны на официальном сайте Git SCM.
 
