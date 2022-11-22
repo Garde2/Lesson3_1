@@ -26,6 +26,11 @@
 
 *git checkout master* - **перемещение к актуальному состоянию репозитория**
 ```
+## Полезные ссылки по GIT.
+
+git-scm.com - GIT для всех платформ
+
+https://learngitbranching.js.org/ - бесплатный тренажер по GIT
 
 ## Рисуем таблицу на Markdown
 
